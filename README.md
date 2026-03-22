@@ -1,4 +1,4 @@
-# MyTicTacToe 🎮
+TicTacToe 🎮
 
 A classic, interactive Tic Tac Toe game built from scratch using HTML, CSS, and vanilla JavaScript. 
 
