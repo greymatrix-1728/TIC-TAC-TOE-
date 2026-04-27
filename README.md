@@ -1,6 +1,5 @@
 TicTacToe 🎮
-WEBSITE URL-https://tangerine-marzipan-4adde7.netlify.app/
-
+WEBSITE URL-https://glittery-zuccutto-cefcbc.netlify.app/
 
 A classic, interactive Tic Tac Toe game built from scratch using HTML, CSS, and vanilla JavaScript. 
 
